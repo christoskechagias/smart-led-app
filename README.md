@@ -24,18 +24,16 @@ $ npx react-native run-android
 
 
 ### <b> 3. SOS </b> <br/>
-<pre>
-- for dgram lib need to install:<br/>
+- For dgram lib need to install:<br/>
 npm install --save react-native-udp and change 
 change <const dgram = require('dgram');> to <import dgram from 'react-native-udp'> <br/>
 in node_modules/magic-home/lib/Discovery.js
 
-- for net lib need to:
+- For net lib need to:
 npm install react-native-tcp --save <br/>
 and go to package.json inside magic-home and add <br/>
 "browser": {
  "net": "react-native-tcp"
 }
-</pre>
 
 
