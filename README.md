@@ -71,9 +71,11 @@ To use the Smart LED App, follow these steps:
 
 2. Open the Smart LED App on your Android device.
 
-3. Follow the instructions provided in the app to connect to your LED strip. This may involve selecting the LED strip's network and entering the network password.
+3. Create an account or log in to your existing account to use the app. 
 
-4. Once the app is connected to your LED strip, you can use the app to control the LED strip's settings. You can turn the LED strip on or off, adjust the brightness, and change the color of the LED strip.
+4. Follow the instructions provided in the app to connect to your LED strip. This may involve selecting the LED strip's network and entering the network password.
+ 
+5. Once the app is connected to your LED strip, you can use the app to control the LED strip's settings. You can turn the LED strip on or off, adjust the brightness, and change the color of the LED strip.
 
 ## Contributing
 
