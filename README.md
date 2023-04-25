@@ -21,21 +21,21 @@ To get started with the Smart LED App, follow these steps:
 
 1. Clone the repository by running the following command:
 ```
-$ git clone https://github.com/kechayias/smart-led-app.git
+git clone https://github.com/kechayias/smart-led-app.git
 ```
 2. Navigate to the cloned repository by running the following command:
 ```
-$ cd smart-led-app
+cd smart-led-app
 ```
   
 3. Install the required dependencies by running the following command:
 ```
-$ npm install
+npm install
 ```
 
 4. Run the app on an Android device or emulator by running the following command:
 ```
-$ npx react-native run-android
+npx react-native run-android
 ```
 
 Note: Make sure that you have an Android device connected to your computer or an Android emulator installed before running this command.
@@ -45,7 +45,7 @@ Note: Make sure that you have an Android device connected to your computer or an
 - For dgram, run the following command:
 
   ```
-  $ npm install --save react-native-udp
+  npm install --save react-native-udp
   ```
 
   Then, change the line `const dgram = require('dgram');` to `import dgram from 'react-native-udp';` in the file `node_modules/magic-home/lib/Discovery.js`.
@@ -53,7 +53,7 @@ Note: Make sure that you have an Android device connected to your computer or an
 - For net, run the following command:
 
   ```
-  $ npm install react-native-tcp --save
+  npm install react-native-tcp --save
   ```
 
   Then, add the following lines to the `package.json` file inside the `magic-home` folder:
