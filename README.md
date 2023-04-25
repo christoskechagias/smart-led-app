@@ -81,3 +81,7 @@ To use the Smart LED App, follow these steps:
 ## Contributing
 
 If you would like to contribute to the Smart LED App, feel free to fork the repository and submit a pull request. We welcome any contributions, including bug fixes, new features, and improvements to the app's user interface.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) file for details.
